@@ -62,8 +62,8 @@ Amplify 빌드 설정:
 
 ## 배포 URL
 
-- AWS S3 URL: `여기에 S3 정적 웹사이트 URL 작성`
-- AWS Amplify URL: `여기에 Amplify 배포 URL 작성`
+- AWS S3 URL: http://mybucket-pract05.s3-website-us-east-1.amazonaws.com
+- AWS Amplify URL: https://main.dthxf299ilx2a.amplifyapp.com
 
 ## 시연 영상
 
