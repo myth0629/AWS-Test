@@ -67,8 +67,8 @@ Amplify 빌드 설정:
 
 ## 시연 영상
 
-- GitHub Actions CI/CD 구축 시연: `여기에 YouTube 링크 작성`
-- AWS Amplify 서비스 활용 시연: `여기에 YouTube 링크 작성`
+- GitHub Actions CI/CD 구축 시연: [`YouTube 링크`](https://youtu.be/NHIAh6DlXek)
+- AWS Amplify 서비스 활용 시연: [`YouTube 링크`](https://youtu.be/MKwduSlNn84)
 
 ## 과제 체크리스트
 
