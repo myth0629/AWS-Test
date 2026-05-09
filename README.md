@@ -69,16 +69,3 @@ Amplify 빌드 설정:
 
 - GitHub Actions CI/CD 구축 시연: [`YouTube 링크`](https://youtu.be/NHIAh6DlXek)
 - AWS Amplify 서비스 활용 시연: [`YouTube 링크`](https://youtu.be/MKwduSlNn84)
-
-## 과제 체크리스트
-
-- [x] React로 동작하는 도서관 대출 시스템 구현
-- [x] GitHub Actions 배포 workflow 작성
-- [x] AWS Academy Secret 사용 구조 반영
-- [x] AWS Amplify 빌드 설정 작성
-- [x] README에 시스템, 기능, CI/CD, Amplify 설명 작성
-- [ ] GitHub repository 생성 및 code push
-- [ ] GitHub Secrets 등록
-- [ ] S3 URL 확인 후 README 업데이트
-- [ ] Amplify URL 확인 후 README 업데이트
-- [ ] YouTube 시연 영상 링크 README 업데이트
