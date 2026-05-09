@@ -26,6 +26,13 @@ jobs:
       - name: Build React app
         run: npm run build
 
+      - name: Check required AWS secrets
+        run: |
+          if [ -z "${{ secrets.S3_BUCKET }}" ]; then
+            echo "S3_BUCKET secret is empty. Add your S3 bucket name in GitHub repository Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
